@@ -7,7 +7,7 @@
     "category": "theme",
     "url": "https://github.com/sniffle15/Pelican-Panel-Theme/",
     "update_url": null,
-    "namespace": "sniffle15\\nz-theme",
+    "namespace": "Sniffle15\\NZTheme",
     "class": "NZThemePlugin",
     "panels": null,
     "panel_version": null,
