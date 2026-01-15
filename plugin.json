@@ -1,15 +1,16 @@
 {
-    "id": "nord-theme",
-    "name": "Nord Theme",
-    "author": "Boy132 (& andreia)",
+    "id": "nz-theme",
+    "name": "NZ Theme",
+    "author": "sniffle15",
     "version": "1.0.0",
-    "description": "A light and dark arctic Nord theme.",
+    "description": "Pelican Panel Theme based on NZ Development Themes.",
     "category": "theme",
-    "url": "https://github.com/pelican-dev/plugins/tree/main/nord-theme",
+    "url": "https://github.com/sniffle15/Pelican-Panel-Theme/",
     "update_url": null,
-    "namespace": "Boy132\\NordTheme",
-    "class": "NordThemePlugin",
+    "namespace": "sniffle15\\nz-theme",
+    "class": "NZThemePlugin",
     "panels": null,
     "panel_version": null,
     "composer_packages": null
+
 }
