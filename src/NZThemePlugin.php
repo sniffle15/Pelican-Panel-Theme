@@ -1,21 +1,21 @@
 <?php
 
-namespace Boy132\NordTheme;
+namespace Sniffle15\NZTheme;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 use Filament\Support\Colors\Color;
 
-class NordThemePlugin implements Plugin
+class NZThemePlugin implements Plugin
 {
     public function getId(): string
     {
-        return 'nord-theme';
+        return 'nz-theme';
     }
 
     public function register(Panel $panel): void
     {
-        $panel->viteTheme('plugins/nord-theme/resources/css/theme.css');
+        $panel->viteTheme('plugins/nz-theme/resources/css/theme.css');
 
         $panel->colors([
             'gray' => [
